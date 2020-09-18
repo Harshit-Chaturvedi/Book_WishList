@@ -3,7 +3,7 @@
  
 body{
     color: #303030;
-    background: linear-gradient(45deg, #E6DADA, #274046);
+    background: linear-gradient(to right, #E6DADA, #274046);
     font-family: "Oswald", sans-serif;
     
 }
